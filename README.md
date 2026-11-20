@@ -1,4 +1,4 @@
-# Hosroom Estructuras
+# Hosroom Tools
 
 Programa de escritorio para Windows de Hosroom · Estructuras de tarifas.
 
